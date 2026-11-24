@@ -4,7 +4,7 @@
 
 **Willian Borges Garcia** · aka **C4PSZERA** 🦫
 
-Tech Leader de TI na região Sul · Estudante na Estácio · Brasil 🇧🇷
+Tech Leader de TI · Região Sul · Ambev · Estudante na Estácio · Brasil 🇧🇷
 
 <a href="https://twitch.tv/c4pszera"><img src="https://img.shields.io/badge/Twitch-c4pszera-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
 <a href="https://www.tiktok.com/@c4pszera"><img src="https://img.shields.io/badge/TikTok-@c4pszera-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
