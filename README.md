@@ -16,7 +16,7 @@ Tech Leader de TI na região Sul · Estudante na Estácio · Brasil 🇧🇷
 
 ### 🦫 Sobre mim
 
-- 🏢 Lidero um time de TI de campo: infraestrutura, redes, links de internet e Starlink nas unidades da região Sul
+- 🏢 Lidero um time de TI de campo na região Sul: infraestrutura, redes e apoio na execução de projetos nas unidades
 - ⚡ Gosto de automatizar o que é repetitivo: fluxos no **Power Automate**, relatórios no **Power BI** e agentes no **Copilot Studio**
 - 📚 Estudando desenvolvimento na faculdade: Python, JavaScript e React Native
 - 🎯 Foco atual: gestão de projetos, liderança e inglês
@@ -37,7 +37,16 @@ Tech Leader de TI na região Sul · Estudante na Estácio · Brasil 🇧🇷
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### 📂 Projetos em destaque
+### 💼 Projetos profissionais
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| 🤖 **Agente de Ronda de TI** | Agente que analisa os relatórios de ronda das unidades, avalia cada item conforme o padrão e gera relatórios com nota por unidade e regional | Copilot Studio · Power Automate · SharePoint · Forms |
+| 📈 **Pesquisa de CSAT automatizada** | Pesquisa de satisfação disparada automaticamente após o atendimento, com consolidação dos resultados | Power Platform |
+
+<sub>Projetos internos: o código e os dados não são públicos.</sub>
+
+### 📂 Repositórios em destaque
 
 | Projeto | O que é | Stack |
 |---|---|---|
