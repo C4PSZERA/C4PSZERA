@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=C8874A&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Willian+%F0%9F%91%8B;Tech+Leader+de+TI+%7C+Infra+%26+Telecom;Automa%C3%A7%C3%A3o+com+Power+Platform+%E2%9A%A1;Streamer+nas+horas+vagas+%F0%9F%8E%AE" alt="Typing SVG" />
 
-**Willian Borges Garcia** · aka **C4PSZERA** 🦫
+**Willian Borges Garcia** · **C4PSZERA** 🦫
 
-Tech Leader de TI · Região Sul · Ambev · Formando na Estácio (2026) 🎓 · Brasil 🇧🇷
+Tech Leader de TI · Região Sul · Ambev · Formando na Estácio (2026) 🎓 · Brasil
 
 <a href="https://twitch.tv/c4pszera"><img src="https://img.shields.io/badge/Twitch-c4pszera-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
 <a href="https://www.tiktok.com/@c4pszera"><img src="https://img.shields.io/badge/TikTok-@c4pszera-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
@@ -16,7 +16,7 @@ Tech Leader de TI · Região Sul · Ambev · Formando na Estácio (2026) 🎓 ·
 
 ### 🦫 Sobre mim
 
-- 🏢 Lidero um time de TI de campo na região Sul: infraestrutura, redes e apoio na execução de projetos nas unidades
+- 🏢 Lidero uma equipe de TI de campo na região Sul: infraestrutura, redes e apoio na execução de projetos nas unidades
 - ⚡ Gosto de automatizar o que é repetitivo: fluxos no **Power Automate**, relatórios no **Power BI** e agentes no **Copilot Studio**
 - 📚 Estudando desenvolvimento na faculdade: Python, JavaScript e React Native
 - 🎯 Foco atual: gestão de projetos, liderança e inglês
